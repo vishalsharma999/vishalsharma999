@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm vishal sharma</h1>
-<h3 align="center">Simple and easy but I am something different and difficult and IT Professional.</h3>
+<h3 align="center">Simple and easy but I am something different and difficult, IT Professional.</h3>
 <img align="right" alt="Coding" width="400" src="[https://www.pexels.com/photo/grayscale-photo-of-man-in-black-hoodie-wearing-guy-fawkes-mask-5380646/](https://stock.adobe.com/in/search?k=hacker&asset_id=293068579)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalsharma999&label=Profile%20views&color=0e75b6&style=flat" alt="vishalsharma999" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- I'm work in graphic Designing  
+- 💻 I'm work in graphic Designing  
 
 - 🔭 I’m currently working on **Daily Attendance Sheet**
 
